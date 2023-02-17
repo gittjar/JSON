@@ -19,7 +19,7 @@
   "subname":"Public",
   "gender":"Unisex",
     "image":"https://digital.pictures.fi/kuvat/Github/hki-railway-station.jpg?img=smaller",
-    "status":""
+    "status":"text-bg-danger"
   },
   {
   "id":1003,
