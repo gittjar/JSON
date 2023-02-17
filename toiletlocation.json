@@ -1,29 +1,29 @@
 [
   {
   "id":1001,
-  "floor":1;
-  "location":"Helsinki-Vantaa Airport;
-  "streetaddress":"Lentoasemantie 1, 01530 Vantaa";
-  "name":"Terminal 1";
-  "subname":"";
-  "gender":"M";
+  "floor":1,
+  "location":"Helsinki-Vantaa Airport",
+  "streetaddress":"Lentoasemantie 1, 01530 Vantaa",
+  "name":"Terminal 1",
+  "subname":"",
+  "gender":"M"
   },
   {
   "id":1002,
-  "floor":1;
-  "location":"Helsinki Central Railwaystation;
-  "streetaddress":"Kaivokatu 1, 00100 Helsinki";
-  "name":"Main Hall";
-  "subname":"Public";
-  "gender":"Unisex";
+  "floor":1,
+  "location":"Helsinki Central Railwaystation",
+  "streetaddress":"Kaivokatu 1, 00100 Helsinki",
+  "name":"Main Hall",
+  "subname":"Public",
+  "gender":"Unisex"
   },
   {
   "id":1003,
-  "floor":2;
-  "location":"Katajannokka Terminal;
-  "streetaddress":"Katajanokanlaituri 8 (Mastokatu 1), 00160 Helsinki";
-  "name":"Main Hall";
-  "subname":"Public";
-  "gender":"W";
+  "floor":2,
+  "location":"Katajannokka Terminal",
+  "streetaddress":"Katajanokanlaituri 8 (Mastokatu 1), 00160 Helsinki",
+  "name":"Main Hall",
+  "subname":"Public",
+  "gender":"W"
   }
 ]
