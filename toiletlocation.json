@@ -17,7 +17,7 @@
   "name":"Main Hall",
   "subname":"Public",
   "gender":"Unisex",
-    "image":"https://digital.pictures.fi/kuvat/Github/katajanokka.jpg?img=smaller"
+    "image":"https://digital.pictures.fi/kuvat/Github/hki-railway-station.jpg?img=smaller"
   },
   {
   "id":1003,
@@ -27,6 +27,6 @@
   "name":"Main Hall",
   "subname":"Public",
   "gender":"W",
-    "image":"https://digital.pictures.fi/kuvat/Github/hki-railway-station.jpg?img=smaller"
+    "image":"https://digital.pictures.fi/kuvat/Github/katajanokka.jpg?img=smaller"
   }
 ]
