@@ -8,7 +8,7 @@
   "subname":"",
   "gender":"M",
    "image":"https://digital.pictures.fi/kuvat/Github/helsinki-airport.jpg?img=smaller",
-    "status":"#06E703"
+    "status":true
   },
   {
   "id":1002,
@@ -19,7 +19,7 @@
   "subname":"Public",
   "gender":"Unisex",
     "image":"https://digital.pictures.fi/kuvat/Github/hki-railway-station.jpg?img=smaller",
-    "status":"danger"
+    "status":false
   },
   {
   "id":1003,
@@ -30,6 +30,6 @@
   "subname":"Public",
   "gender":"F",
     "image":"https://digital.pictures.fi/kuvat/Github/katajanokka.jpg?img=smaller",
-    "status":""
+    "status":true
   }
 ]
