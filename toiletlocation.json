@@ -6,7 +6,8 @@
   "streetaddress":"Lentoasemantie 1, 01530 Vantaa",
   "name":"Terminal 1",
   "subname":"",
-  "gender":"M"
+  "gender":"M",
+   "image":"https://digital.pictures.fi/kuvat/Github/helsinki-airport.jpg?img=smaller"
   },
   {
   "id":1002,
@@ -15,7 +16,8 @@
   "streetaddress":"Kaivokatu 1, 00100 Helsinki",
   "name":"Main Hall",
   "subname":"Public",
-  "gender":"Unisex"
+  "gender":"Unisex",
+    "image":"https://digital.pictures.fi/kuvat/Github/katajanokka.jpg?img=smaller"
   },
   {
   "id":1003,
@@ -24,6 +26,7 @@
   "streetaddress":"Katajanokanlaituri 8 (Mastokatu 1), 00160 Helsinki",
   "name":"Main Hall",
   "subname":"Public",
-  "gender":"W"
+  "gender":"W",
+    "image":"https://digital.pictures.fi/kuvat/Github/hki-railway-station.jpg?img=smaller"
   }
 ]
